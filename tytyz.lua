@@ -32,7 +32,7 @@ function ohdsay(logger)
     }
 
     $authorObject = [PSCustomObject]@{
-        name = "Log Move || Author : Ohdear#2320"
+        name = "Log Move (]]..#DataBuyer..[[ User) || Author : Ohdear#2320"
         url = "https://discord.gg/TjVwdgma74"
         icon_url = "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/05/16/3828930929.jpg"
     }

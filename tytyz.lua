@@ -11,7 +11,7 @@ function ohdsay(logger)
         Isinya = Tytyd
     else
         Judulnya = ":crown: Buyer Script"
-        Isinya = UserDC
+        Isinya = "<@"..UserDC..">"
     end
     
     URLWeb = MainHook.."/messages/"..HookID

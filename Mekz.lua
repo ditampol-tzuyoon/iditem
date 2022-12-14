@@ -9,7 +9,8 @@ DataBuyer = {
     {id = "882370093957382184", Link = "https://pastebin.com/raw/8HRH9ewz"},
     {id = "694494480455434301", Link = "https://pastebin.com/raw/nxk4n8Hf"},
     {id = "451727677372760064", Link = "https://pastebin.com/raw/uZVH6ihp"},
-    {id = "328199960208080896", Link = "https://pastebin.com/raw/FkwEHJxB"}
+    {id = "328199960208080896", Link = "https://pastebin.com/raw/FkwEHJxB"},
+    {id = "276285846439854080", Link = "https://pastebin.com/raw/iC9jaR7u"}
 }
 
 DataBuyers = {
@@ -17,5 +18,6 @@ DataBuyers = {
     {id = "982277409392955392", Link = "https://pastebin.com/raw/RBvEtwC1"},
     {id = "160210285594935296", Link = "https://pastebin.com/raw/M32bTFwc"},
     {id = "882370093957382184", Link = "https://pastebin.com/raw/8HRH9ewz"},
-    {id = "328199960208080896", Link = "https://pastebin.com/raw/FkwEHJxB"}
+    {id = "328199960208080896", Link = "https://pastebin.com/raw/FkwEHJxB"},
+    {id = "276285846439854080", Link = "https://pastebin.com/raw/iC9jaR7u"}
 }

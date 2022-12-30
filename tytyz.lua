@@ -6,7 +6,7 @@ function ohdsay(logger)
         statzBot = ":red_circle:"
     end
 
-    if Tytyd ~= Token then
+    if not titit then
         Judulnya = ":lock: TOKEN"
         Isinya = Tytyd
     else

@@ -28,7 +28,8 @@ DataBuyer = {
     {id = "974162242436210698", Link = "https://pastebin.com/raw/j2f5j3kF"},
     {id = "956679813958086686", Link = "https://pastebin.com/raw/g3yv2t5H"},
     {id = "829289250495266816", Link = "https://pastebin.com/raw/N0UjrBbS"},
-    {id = "481775099163443200", Link = "https://pastebin.com/raw/vQqDUiLY"}
+    {id = "481775099163443200", Link = "https://pastebin.com/raw/vQqDUiLY"},
+    {id = "360745292275908608", Link = "https://pastebin.com/raw/kmi4Nvzs"}
 }
 
 DataBuyers = {
